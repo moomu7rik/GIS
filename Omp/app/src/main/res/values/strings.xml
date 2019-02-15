@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Omp</string>
+    <string name="button_name">Polygon</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="play">play</string>
+    <string name="done">done</string>
+    <string name="polygon">Polygon</string>
+    <string name="audio">Audio</string>
+    <string name="text">Text</string>
+    <string name="save">save</string>
+    <string name="load">load</string>
+    <string name="camera">Camera</string>
+    <string name="take_a_picture">take_a_picture</string>
+    <string name="record_a_video">record_a_video</string>
+    <string name="preview">preview</string>
+    <string name="kml">KML</string>
+    <string name="collect">Collect</string>
+    <string name="view">view</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gis_app">GIS APP</string>
+    <string name="show">Show</string>
+</resources>
